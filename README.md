@@ -6,7 +6,7 @@
 - Nicolas Ramirez Montero
 - Sebastian Camilo Paiba Cordero
 
-Este repositorio contiene una colección de implementaciones de estructuras de datos fundamentales desarrolladas en Java.
+Este repositorio contiene la implementación de estructuras de datos, desarrolladas en C.
 
 ---
 
