@@ -1,0 +1,34 @@
+# Estructuras de Datos en Java
+
+**Autores:**
+- Juan Sebastian Ronceria
+- Heidy Catherine Vasquez Cañon
+- Nicolas Ramirez Montero
+- Sebastian Camilo Paiba Cordero
+
+Este repositorio contiene una colección de implementaciones de estructuras de datos fundamentales desarrolladas en Java.
+
+---
+
+# Contenido del Proyecto
+
+## Listas Enlazadas
+- Lista Simple
+- Lista Doble
+- Lista Circular
+- Lista Circular Doble
+
+
+
+# Tecnologías Utilizadas
+- C
+- Visual Studio Code
+- Git y GitHub para control de versiones
+
+---
+
+# Organización del Repositorio
+Todos los archivos se encuentran dentro de la carpeta correspondiente.
+
+---
+
