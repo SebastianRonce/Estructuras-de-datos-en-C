@@ -1,4 +1,4 @@
-# Estructuras de Datos en Java
+# Estructuras de Datos en C
 
 **Autores:**
 - Juan Sebastian Ronceria
